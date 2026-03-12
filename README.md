@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emin Fındıkçı</h1>
 <h3 align="center">Software Developer</h3>
 
-<div> </div>
-<div> </div>
-<div> </div>
 
 ### 💻 Skills & Technologies
 
